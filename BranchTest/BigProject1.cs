@@ -9,5 +9,6 @@ namespace BranchTest
     internal class BigProject1
     {
         // Func #1
+        // Func #2
     }
 }
