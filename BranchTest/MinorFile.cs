@@ -9,6 +9,6 @@ namespace BranchTest
     internal class MinorFile
     {
         // Minor fix #1
-        // Minor fix #2
+        // Minor fix #3
     }
 }
